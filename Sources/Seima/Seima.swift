@@ -1,7 +1,7 @@
-struct Seima {
-    var age: Int = 22
+public struct Seima {
+    public var age: Int = 22
     
-    func sayGreeting() {
+    public func sayGreeting() {
         print("ぴえん🥺")
     }
 }
