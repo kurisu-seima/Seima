@@ -4,4 +4,5 @@ public struct Seima {
     public func sayGreeting() {
         print("ぴえん🥺")
     }
+    public init() {}
 }
